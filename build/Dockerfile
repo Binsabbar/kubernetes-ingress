@@ -52,7 +52,7 @@ RUN --mount=type=secret,id=nginx-repo.crt,dst=/etc/apk/cert.pem,mode=0644 \
 
 
 ############################################# Base image for Debian with NGINX Plus #############################################
-FROM debian:11-slim AS debian-plus
+FROM debian:12-slim AS debian-plus
 ARG IC_VERSION
 ARG NGINX_PLUS_VERSION
 ARG BUILD_OS
