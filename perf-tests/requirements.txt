@@ -1,6 +1,6 @@
 certifi==2023.5.7
 cffi==1.15.1
-kubernetes==26.1.0
+kubernetes==28.1.0
 locust==2.15.1
 pytest==7.3.1
 pytest-html==3.2.0
