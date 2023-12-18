@@ -320,9 +320,9 @@ iniconfig==2.0.0 \
     # via
     #   -r requirements.txt
     #   pytest
-kubernetes==26.1.0 \
-    --hash=sha256:5854b0c508e8d217ca205591384ab58389abdae608576f9c9afc35a3c76a366c \
-    --hash=sha256:e3db6800abf7e36c38d2629b5cb6b74d10988ee0cba6fba45595a7cbe60c0042
+kubernetes==28.1.0 \
+    --hash=sha256:10f56f8160dcb73647f15fafda268e7f60cf7dbc9f8e46d52fcd46d3beb0c18d \
+    --hash=sha256:1468069a573430fb1cb5ad22876868f57977930f80a6749405da31cd6086a7e9
     # via -r requirements.txt
 mock==5.0.2 \
     --hash=sha256:06f18d7d65b44428202b145a9a36e99c2ee00d1eb992df0caf881d4664377891 \
